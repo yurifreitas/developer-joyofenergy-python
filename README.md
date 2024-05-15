@@ -1,6 +1,6 @@
 # Welcome to PowerDale
 
-PowerDale is a small town with around 100 residents. Most houses have a smart meter installed that can save and send
+owerDale is a small town with around 100 residents. Most houses have a smart meter installed that can save and send
 information about how much power a house is drawing/using.
 
 There are three major providers of energy in town that charge different amounts for the power they supply.
